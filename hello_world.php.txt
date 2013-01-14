@@ -1,4 +1,4 @@
-# hello_world.phpВ╠УрЧe
+я╗┐# hello_world.phpуБохЖЕхо╣
 <?php
     echo "Hello World!";
 ?>
